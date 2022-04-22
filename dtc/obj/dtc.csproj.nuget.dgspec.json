@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\vs\\pact02\\dtc\\dtc.csproj": {}
+    "c:\\Projects\\vs\\pact02\\dtc\\dtc.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\vs\\pact02\\dtc\\dtc.csproj": {
+    "c:\\Projects\\vs\\pact02\\dtc\\dtc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\vs\\pact02\\dtc\\dtc.csproj",
+        "projectUniqueName": "c:\\Projects\\vs\\pact02\\dtc\\dtc.csproj",
         "projectName": "dtc",
-        "projectPath": "C:\\Projects\\vs\\pact02\\dtc\\dtc.csproj",
+        "projectPath": "c:\\Projects\\vs\\pact02\\dtc\\dtc.csproj",
         "packagesPath": "C:\\Users\\pss\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\vs\\pact02\\dtc\\obj\\",
+        "outputPath": "c:\\Projects\\vs\\pact02\\dtc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pss\\AppData\\Roaming\\NuGet\\NuGet.Config",
