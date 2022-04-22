@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qomQyq2cFtR3Y0Z5SlTqqii8HHfTnjQyQzTj9fKwZOJ5BIHkAcq2bKI+ie3ifUajjoLQVgpOal/EwakZaNgzfA==",
+  "dgSpecHash": "Bs5r+32e1AfY8m6OLpfF0vSZg2gbLL+qKIanCnhHQiqIcSxWZ0xPpqkAVZi7x4l7VW0bcWMnR//Z6AcxAcazSg==",
   "success": true,
-  "projectFilePath": "c:\\Projects\\vs\\pact02\\dtc\\dtc.csproj",
+  "projectFilePath": "C:\\Projects\\vs\\pact02\\dtc\\dtc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
